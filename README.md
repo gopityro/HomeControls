@@ -25,6 +25,8 @@ This project is a rich UI for controlling temperature zones using **Qt Quick Con
 ---
 
 ## UI Screenshot
+![gif](https://github.com/user-attachments/assets/e64ac7d1-85a6-4916-934f-7dd4e1939a73)
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/121eaafe-649a-4e57-8cb4-c7b4a08388d4" />
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/8c90d120-6e74-4d1c-8fbe-cb014308492f" />
 
